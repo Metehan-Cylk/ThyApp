@@ -1,0 +1,26 @@
+
+# Uçuş yönü seçilir
+* "oneWayButtonBy" butonuna bas
+* "2" saniye bekle
+
+#Havalimanı bilgisi seçilir <from> to <go>
+* "fromToButton" butonuna bas
+* "2" saniye bekle
+* "searchBoxButton" yerine <from> degerini yolla
+* "selectSaw" butonuna bas
+* "2" saniye bekle
+* "toButton" butonuna bas
+* "secondSearchBoxButton" yerine <go> degerini yolla
+* "selectEsb" butonuna bas
+* "2" saniye bekle
+
+#Uçuş tarihi <gun> gün sonraya seçilir
+* "dateButton" butonuna bas
+* <gun> gün sonrasını seç
+* "2" saniye bekle
+* "doneButton" butonuna bas
+
+#Yetişkin bilgisi set edilir ve aranır
+* "addPersonButton" butonuna bas
+* "searchFlightButton" butonuna bas
+* "2" saniye bekle

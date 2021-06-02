@@ -1,0 +1,10 @@
+
+#Sayfa geçişi kontrol edilir
+* "flightArea"'i var mı kontrol et
+* "3" saniye bekle
+
+#Bilet seçilir
+* "flightList" sonuçların arasından rastgele seçim yap
+* "selectEcoFligth" sonuçlarından "0" değerini seç
+* "continueButton" butonuna bas
+* "3" saniye bekle
